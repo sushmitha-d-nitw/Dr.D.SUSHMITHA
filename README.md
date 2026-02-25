@@ -422,8 +422,8 @@
                         <li><span class="font-semibold">Optimization of Hydrothermally treated sawdust using RSM CCD.</span> (INCEEE-2019) <span class="isbn-highlight">ISBN: 978-81-928314-5-9</span></li>
                         <li><span class="font-semibold">Intensification of enzyme activity using sonochemical approach.</span> (INCEEE-2019) <span class="isbn-highlight">ISBN: 978-81-928314-5-9</span></li>
                         <li><span class="font-semibold">Thermal Modelling of a high pressure Autoclave Reactor for Hydrothermal Carbonization.</span> (ICNHTFF-2018) <span class="isbn-highlight">ISBN: 2341-582</span></li>
-                        <li><span class="font-semibold">Kinetic study of degradation of bagasse hydro char using Thermo gravimetric analysis.</span> (ICONSWM 2017) </li>
-                        <li><span class="font-semibold">Microwave assisted alkali-peroxide treated sawdust for delignification and its characterization.</span> (ICONSWM 2017) </li>
+                        <li><span class="font-semibold">Kinetic study of degradation of bagasse hydro char using Thermo gravimetric analysis. Waste valorization and recycling PP- 339-346,  Springer <span class="isbn-highlight">ISBN 10.1007978-981-13-2784-1</span></li> </span> (ICONSWM 2017) </li>
+                        <li><span class="font-semibold">Microwave assisted alkali-peroxide treated sawdust for delignification and its characterization. Waste valorization and recycling PP- 1987-1994,  Springer <span class="isbn-highlight">ISBN 10.1007978-981-13-2784-1</span></li> </span> (ICONSWM 2017) </li>
                         <li><span class="font-semibold">Hydrothermal Carbonization of Waste Biomass.</span> (IHMTC2017) <span class="isbn-highlight">ISBN: 978-1-56700-478-6</span></li>
                         <li><span class="font-semibold">Early Research Work Title (15th Conference Paper) - Title not specified in source document.</span> (Placeholder)</li>
                     </ol>
