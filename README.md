@@ -33,7 +33,7 @@
             margin-bottom: 0.3rem;
 
             /***NEW: PULL UP HEADING TO REDUCE SPACE ABOVE***/
-            margin-top:-1.5rem;/*Adjust this value (e.g., -1rem, -1.5rem )as needed*/ 
+            margin-top:-0.5rem;/*Adjust this value as needed*/ 
             color: #ffffff; 
             font-family: 'Playfair Display', serif;
             font-size: 1rem;
@@ -139,14 +139,13 @@
         }
         
         /* Interactive Sections */
-        .content-section {
-            display: none;
-            animation: fadeIn 0.5s ease-in-out;
-            max-height: calc(100vh - 80px); 
-            overflow-y: auto; 
-            padding-right: 5px;
-            background-color: #2A52BE; 
-        }
+       .content-section {
+    display: none;
+    animation: fadeIn 0.5s ease-in-out;
+    overflow: visible;
+    padding-right: 0px;
+    background-color: #2A52BE;
+}
         .content-section.active {
             display: block;
         }
@@ -228,7 +227,7 @@
 </header>
 
     <main class="flex-grow">
-        <div class="container mx-auto max-w-5xl px-2 py-4"> 
+                <div class="container mx-auto max-w-5xl px-2 py-1">
 
             </div>
             </main>
@@ -544,7 +543,7 @@
             </section>
 
 <!-- SUBJECT CONTENT SECTION -->
-<section id="subjects" class="content-section py-6 px-4">
+<section id="subjects" class="content-section py-1 px-4">
 
     <!-- Main Heading -->
     <h2 class="section-heading text-center text-3xl mb-6">
