@@ -219,7 +219,7 @@
       <a href="#research" class="nav-link" data-target="research"><b>Research</b></a>
       <a href="#publications-detail" class="nav-link" data-target="publications-detail"><b>Publications</b></a>
       <a href="#skills" class="nav-link" data-target="skills"><b>Skills</b></a>
-        <a href="#Extra-curricular" class="nav-link" data-target="Extra-curricular"><b>Activities<b><a/a>
+      <a href="#extra-curricular" class="nav-link" data-target="extra-curricular"><b>Activities</b></a>
       <a href="#subjects" class="nav-link" data-target="subjects"><b>Subject Content</b></a>
       <a href="#gallery" class="nav-link" data-target="gallery"><b>Gallery</b></a>
       <a href="#contact" class="nav-link" data-target="contact"><b>Contact</b></a>
@@ -228,7 +228,7 @@
 </header>
 
     <main class="flex-grow">
-        <div class="container mx-auto max-w-5x1 px-2 py-4"> 
+        <div class="container mx-auto max-w-5xl px-2 py-4"> 
 
             </div>
             </main>
