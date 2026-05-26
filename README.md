@@ -185,6 +185,27 @@
             object-fit: cover; 
             display: block;
         }
+        /* SUBJECT CONTENT IMPROVEMENTS */
+
+#subjects .card {
+    border-left: 4px solid yellow;
+    transition: 0.3s ease;
+}
+
+#subjects .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+}
+
+#subjects a {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+#subjects .sub-sub-heading {
+    font-size: 1.1rem;
+    color: #FFFF00;
+}
     </style>
 </head>
 <body class="flex flex-col min-h-screen">
@@ -198,6 +219,8 @@
       <a href="#research" class="nav-link" data-target="research"><b>Research</b></a>
       <a href="#publications-detail" class="nav-link" data-target="publications-detail"><b>Publications</b></a>
       <a href="#skills" class="nav-link" data-target="skills"><b>Skills</b></a>
+        <a href="#Extracurricular" class="nav-link" data-target="Extracurricular"><b>Extracurricular<b><a/a>
+      <a href="#subjects" class="nav-link" data-target="subjects"><b>Subject Content</b></a>
       <a href="#gallery" class="nav-link" data-target="gallery"><b>Gallery</b></a>
       <a href="#contact" class="nav-link" data-target="contact"><b>Contact</b></a>
     </nav>
@@ -530,6 +553,251 @@
                     </ul>
                 </div>
             </section>
+
+<!-- SUBJECT CONTENT SECTION -->
+<section id="subjects" class="content-section py-6 px-4">
+
+    <!-- Main Heading -->
+    <h2 class="section-heading text-center text-3xl mb-6">
+        Subject Content
+    </h2>
+
+    <!-- SUBJECT 1 -->
+    <div class="card">
+
+        <!-- Subject Heading -->
+        <h3 class="text-yellow-300 text-2xl mb-4">
+            Chemical Reaction Engineering
+        </h3>
+
+        <!-- Sub Sections -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
+
+            <!-- YOUTUBE -->
+            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+
+                <span class="sub-sub-heading">
+                    Video Lectures
+                </span>
+
+                <!-- ADD YOUTUBE LINKS -->
+                <div class="mt-3 space-y-2">
+
+                    <a href="YOUR_YOUTUBE_LINK"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       ▶ Lecture 1
+                    </a>
+
+                    <a href="YOUR_YOUTUBE_LINK"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       ▶ Lecture 2
+                    </a>
+
+                </div>
+            </div>
+
+            <!-- PPTS -->
+            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+
+                <span class="sub-sub-heading">
+                    PPTs
+                </span>
+
+                <!-- ADD PPT LINKS -->
+                <div class="mt-3 space-y-2">
+
+                    <a href="ppt/cre1.pptx"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📘 CRE PPT 1
+                    </a>
+
+                    <a href="ppt/cre2.pptx"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📘 CRE PPT 2
+                    </a>
+
+                </div>
+            </div>
+
+            <!-- NOTES -->
+            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+
+                <span class="sub-sub-heading">
+                    Notes
+                </span>
+
+                <!-- ADD NOTES LINKS -->
+                <div class="mt-3 space-y-2">
+
+                    <a href="notes/cre_notes1.pdf"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📄 Chapter Notes 1
+                    </a>
+
+                    <a href="notes/cre_notes2.pdf"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📄 Chapter Notes 2
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- SUBJECT 2 -->
+    <div class="card mt-6">
+
+        <h3 class="text-yellow-300 text-2xl mb-4">
+            Process Engineering Principles
+        </h3>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
+
+            <!-- YOUTUBE -->
+            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+
+                <span class="sub-sub-heading">
+                    Video Lectures
+                </span>
+
+                <div class="mt-3 space-y-2">
+
+                    <a href="YOUR_YOUTUBE_LINK"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       ▶ Lecture 1
+                    </a>
+
+                </div>
+            </div>
+
+            <!-- PPT -->
+            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+
+                <span class="sub-sub-heading">
+                    PPTs
+                </span>
+
+                <div class="mt-3 space-y-2">
+
+                    <a href="ppt/pep1.pptx"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📘 PEP PPT 1
+                    </a>
+
+                </div>
+            </div>
+
+            <!-- NOTES -->
+            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+
+                <span class="sub-sub-heading">
+                    Notes
+                </span>
+
+                <div class="mt-3 space-y-2">
+
+                    <a href="notes/pep_notes.pdf"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📄 PEP Notes
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- SUBJECT 3 -->
+    <div class="card mt-6">
+
+        <h3 class="text-yellow-300 text-2xl mb-4">
+            Fluid Mechanics
+        </h3>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
+
+            <!-- YOUTUBE -->
+            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+
+                <span class="sub-sub-heading">
+                    Video Lectures
+                </span>
+
+                <div class="mt-3 space-y-2">
+
+                    <a href="YOUR_YOUTUBE_LINK"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       ▶ Lecture 1
+                    </a>
+
+                </div>
+            </div>
+
+            <!-- PPT -->
+            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+
+                <span class="sub-sub-heading">
+                    PPTs
+                </span>
+
+                <div class="mt-3 space-y-2">
+
+                    <a href="ppt/fluid1.pptx"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📘 Fluid PPT 1
+                    </a>
+
+                </div>
+            </div>
+
+            <!-- NOTES -->
+            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+
+                <span class="sub-sub-heading">
+                    Notes
+                </span>
+
+                <div class="mt-3 space-y-2">
+
+                    <a href="notes/fluid_notes.pdf"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📄 Fluid Notes
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
 
             <section id="gallery" class="content-section">
                 <h2 class="section-heading">Research & Professional Gallery</h2>
