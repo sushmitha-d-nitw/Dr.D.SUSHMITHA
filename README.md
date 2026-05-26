@@ -380,7 +380,7 @@
             </section>
 
             <section id="research" class="content-section">
-                <h2 class="text-3x1 font-boldmb-3 mt-0 section-heading">Core Research & Metrics</h2>
+                <h2 class="text-3xl font-boldmb-3 mt-0 section-heading">Core Research & Metrics</h2>
                 <div class="card card-content">
                     <ul class="list-disc list-inside text-sm ml-4 space-y-3 mt-3">
                         
