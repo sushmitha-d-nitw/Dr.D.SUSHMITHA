@@ -219,7 +219,7 @@
       <a href="#research" class="nav-link" data-target="research"><b>Research</b></a>
       <a href="#publications-detail" class="nav-link" data-target="publications-detail"><b>Publications</b></a>
       <a href="#skills" class="nav-link" data-target="skills"><b>Skills</b></a>
-        <a href="#Extracurricular" class="nav-link" data-target="Extracurricular"><b>Extracurricular<b><a/a>
+        <a href="#Extra-curricular" class="nav-link" data-target="Extra-curricular"><b>Activities<b><a/a>
       <a href="#subjects" class="nav-link" data-target="subjects"><b>Subject Content</b></a>
       <a href="#gallery" class="nav-link" data-target="gallery"><b>Gallery</b></a>
       <a href="#contact" class="nav-link" data-target="contact"><b>Contact</b></a>
@@ -512,7 +512,7 @@
                 </div>
             </section>
 
-            <section id="extracurricular" class="content-section">
+            <section id="extra-curricular" class="content-section">
                 <h2 class="section-heading">Awards & Recognition</h2>
                 <div class="card card-content">
                     <ul class="list-disc list-inside text-sm ml-4 space-y-3 mt-3">
@@ -539,17 +539,6 @@
                                 <span class="block italic text-xs">These national-level qualifications confirm high academic standards and technical aptitude.</span>
                             </div>
                         </li>
-                    </ul>
-                </div>
-            </section>
-
-            <section id="extra-curricular" class="content-section">
-                <h2 class="section-heading">Extracurricular Activities</h2>
-                <div class="card card-content">
-                    <ul class="list-disc list-inside text-sm ml-4 space-y-3 mt-3">
-                        <li>**Hostel Warden (May-Nov 2022):** Managed and supervised student living and discipline as a Hostel Warden at Excel Engineering College.</li>
-                        <li>**Placement Co-ordinator (2022):** Successfully coordinated industrial placements and internships for the Petrochemical Technology department.</li>
-                        <li>**Active Member of IICHE and IEI:** Maintained continuous professional development and networking within the Indian Institute of Chemical Engineers and Institution of Engineers (India).</li>
                     </ul>
                 </div>
             </section>
