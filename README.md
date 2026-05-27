@@ -683,7 +683,7 @@
 
                 <div class="mt-3 space-y-2">
 
-                    <a href="PPT/PEP UNIT-1 Process Calculations and thermodynamics.pptx"
+                    <a href="https://docs.google.com/presentation/d/1kZK5dsfi8W3gnVsyuE9QakW2DQgSL9ct/edit?slide=id.p1#slide=id.p1"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
