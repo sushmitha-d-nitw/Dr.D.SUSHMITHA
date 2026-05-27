@@ -968,6 +968,20 @@
             });
         });
     </script>
+
+ <!-- Visitor Counter -->
+    <div class="text-center mt-6">
+        
+        <p class="text-white mb-2">Website Visitors</p>
+
+        <img 
+            src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_REPOSITORY_NAME" 
+            alt="Visitor Counter"
+            class="mx-auto"
+        >
+
+    </div>
+
     
 </body>
 </html>
