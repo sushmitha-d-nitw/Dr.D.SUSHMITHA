@@ -687,7 +687,7 @@
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📘 PEP PPT 1
+                       📘 PEP PPT UNIT-1 Process Calculations and thermodynamics.pptx
                     </a>
 
                 </div>
