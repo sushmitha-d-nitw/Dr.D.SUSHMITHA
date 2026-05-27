@@ -683,7 +683,7 @@
 
                 <div class="mt-3 space-y-2">
 
-                    <a href="https://docs.google.com/presentation/d/1kZK5dsfi8W3gnVsyuE9QakW2DQgSL9ct/edit?slide=id.p1#slide=id.p1"
+                    <a href="https://docs.google.com/presentation/d/1kZK5dsfi8W3gnVsyuE9QakW2DQgSL9ct/edit?usp=sharing&ouid=106198300535091249618&rtpof=true&sd=true"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
