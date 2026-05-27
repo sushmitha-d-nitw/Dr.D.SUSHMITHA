@@ -683,11 +683,11 @@
 
                 <div class="mt-3 space-y-2">
 
-                    <a href="ppt/pep1.pptx"
+                    <a href="ppt/PEP UNIT-1 Process Calculations and thermodynamics.pptx"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📘 PEP PPT UNIT-1 Process Calculations and thermodynamics.pptx
+                       📘 PEP UNIT-1 Process Calculations and thermodynamics.pptx
                     </a>
 
                 </div>
