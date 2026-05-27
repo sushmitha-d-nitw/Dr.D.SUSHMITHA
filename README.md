@@ -690,6 +690,36 @@
                        📘 PEP UNIT-1 Process Calculations and thermodynamics
                     </a>
 
+ <a href="https://docs.google.com/presentation/d/1gwl1xwGgx83IqbGUfyo1fLqPH_70f_UK/edit?usp=sharing&ouid=106198300535091249618&rtpof=true&sd=true"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📘 PEP PPT 2 Material and Engergy balanace
+                       </a>
+
+<a href="https://docs.google.com/presentation/d/1umUkzSstFve6fMbqZDUmyMot0fOMw3Bs/edit?usp=sharing&ouid=106198300535091249618&rtpof=true&sd=true"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📘 PEP PPT 3 Unit Operations and Fluid Mechanics 
+                       </a>
+
+<a href="https://docs.google.com/presentation/d/1RmxR5DATFmCtPKgsAACErRiqGZNE3mhb/edit?usp=sharing&ouid=106198300535091249618&rtpof=true&sd=true"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📘 PEP PPT 4
+                       </a>
+
+<a href="https://docs.google.com/presentation/d/162G9nJsuPIB-GRQFshQc1eqNQwgFEpIq/edit?usp=sharing&ouid=106198300535091249618&rtpof=true&sd=true"
+                       target="_blank"
+                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+
+                       📘 PEP PPT 5
+                       </a>
+                       
+                       
+
                 </div>
             </div>
 
