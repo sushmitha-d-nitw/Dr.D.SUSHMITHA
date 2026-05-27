@@ -678,16 +678,16 @@
             <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
 
                 <span class="sub-sub-heading">
-                    PPTs
+                    PPT
                 </span>
 
                 <div class="mt-3 space-y-2">
 
-                    <a href="ppt/PEP UNIT-1 Process Calculations and thermodynamics.pptx"
+                    <a href="PPT/PEP UNIT-1 Process Calculations and thermodynamics.pptx"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📘 PEP UNIT-1 Process Calculations and thermodynamics.pptx
+                       📘 PEP UNIT-1 Process Calculations and Thermodynamics
                     </a>
 
                 </div>
