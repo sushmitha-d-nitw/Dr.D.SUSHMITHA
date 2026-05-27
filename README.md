@@ -708,14 +708,14 @@
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📘 PEP PPT 4
+                       📘 PEP PPT 4 Heat Transfer
                        </a>
 
 <a href="https://docs.google.com/presentation/d/162G9nJsuPIB-GRQFshQc1eqNQwgFEpIq/edit?usp=sharing&ouid=106198300535091249618&rtpof=true&sd=true"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📘 PEP PPT 5
+                       📘 PEP PPT 5 Mass Trnasfer
                        </a>
                        
                        
