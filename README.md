@@ -575,28 +575,28 @@
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       ▶ Unit 4: Design of Signle and multiple reactors for Multiple reactions (Part-1)
+                       ▶ UNIT 4: Design of Signle and multiple reactors for Multiple reactions (Part-1)
                     </a>
 
  <a href="https://www.youtube.com/watch?v=ITS7pu19sXQ&t=86s"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       ▶ Unit 4: Design of Signle and multiple reactors for Multiple reactions (Part-2)
+                       ▶ UNIT 4: Design of Signle and multiple reactors for Multiple reactions (Part-2)
                     </a>
 
  <a href="https://www.youtube.com/watch?v=ibqqgTQNmSU&t=31s"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       ▶ Unit 4: Design of Signle and multiple reactors for Multiple reactions (Part-3)
+                       ▶ UNIT 4: Design of Signle and multiple reactors for Multiple reactions (Part-3)
                     </a>
                    
                     <a href="YOUR_YOUTUBE_LINK"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       ▶ Unit 1
+                       ▶ UNIT 1
                     </a>
 
                 </div>
@@ -623,7 +623,7 @@
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📘 CRE unit 1 PPT 1
+                       📘 CRE UNIT 1 PPT 1
                     </a>
 
                 </div>
