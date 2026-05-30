@@ -639,11 +639,11 @@
                 <!-- ADD NOTES LINKS -->
                 <div class="mt-3 space-y-2">
 
-                    <a href="notes/cre_notes1.pdf"
+                    <a href="https://drive.google.com/file/d/1ED03MauPEm1iNohbzsI-MDGQET3S21aR/view?usp=sharing"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📄 Chapter Notes 1
+                       📄 Unit4 Notes 
                     </a>
 
                     <a href="notes/cre_notes2.pdf"
@@ -656,9 +656,24 @@
                 </div>
             </div>
 
+<!-- ADD Quize LINKS -->
+<div class="bg-gray-800 p-4 rounded-lg">
+    <h3 class="text-xl font-bold mb-3 text-yellow-400">
+        📝 Online Quizzes
+    </h3>
+
+    <div class="space-y-2">
+
+        <a href="https://extendedforms.io/form/a1e6b416-2b77-4cf9-9d13-132a98fa021f/login"
+           target="_blank"
+           class="block bg-green-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+           📝 Unit 1 Quiz
+        </a>
+
         </div>
     </div>
-
+ </div>
+    </div>
 
     <!-- SUBJECT 2 -->
     <div class="card mt-6">
