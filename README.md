@@ -596,7 +596,7 @@
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       ▶ Lecture 2
+                       ▶ Unit 1
                     </a>
 
                 </div>
@@ -616,14 +616,14 @@
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📘 CRE PPT 1
+                       📘 CRE UNIT 4 PPT 1
                     </a>
 
                     <a href="ppt/cre2.pptx"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📘 CRE PPT 2
+                       📘 CRE unit 1 PPT 1
                     </a>
 
                 </div>
@@ -643,14 +643,14 @@
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📄 Unit4 Notes 
+                       📄 UNIT 4 Notes 
                     </a>
 
                     <a href="notes/cre_notes2.pdf"
                        target="_blank"
                        class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
 
-                       📄 Chapter Notes 2
+                       📄 UNIT 1 Notes 
                     </a>
 
                 </div>
