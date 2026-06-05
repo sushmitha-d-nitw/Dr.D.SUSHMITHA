@@ -982,7 +982,7 @@
 
  <!-- Visitor Counter -->
    
-<div class="text-center mt-6">
+<div class="text-center mt-4">
   <h3 class="text-white text-xl mb-2">Visitor Site</h3>
 
   <img 
