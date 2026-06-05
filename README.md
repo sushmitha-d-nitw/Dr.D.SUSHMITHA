@@ -981,18 +981,16 @@
     </script>
 
  <!-- Visitor Counter -->
-    <div class="text-center mt-6">
-        
-        <p class="text-white mb-2">Website Visitors</p>
+   
+<div class="text-center mt-6">
+  <h3 class="text-white text-xl mb-2">Visitor Site</h3>
 
-        <img 
-            https://visitor-badge.laobi.icu/badge?page_id=sushmitha-d-nitw.Dr.D.SUSHMITHA
-            alt="Visitor Counter"
-            class="mx-auto"
-        >
-
-    </div>
-
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=sushmitha-d-nitw.Dr.D.SUSHMITHA"
+    alt="Visitor Counter"
+    class="mx-auto"
+  >
+</div>
     
 </body>
 </html>
