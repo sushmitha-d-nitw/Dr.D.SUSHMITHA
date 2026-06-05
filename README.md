@@ -419,10 +419,37 @@
             <section id="publications-detail" class="content-section">
                 <div class="card card-content">
 
-                    <h3> Book & Book Chapters Published </h3>
-                    <ol class="list-decimal list-inside text-sm ml-4 mt-3 pub-list">
-                        <li><span class="font-semibold" Book : Bio-Inspired Self healing organic coatings for corrosion protection of marine mild steel .</span> in *Crdeep Publisher* ISBN:978-81-687441-0-3. <a href="https://doi.org/10.5281/zenodo.20534474" target="_blank" class="text-blue-300 hover:text-blue-100">[fULL book]</a></li>
-                        <li><span class="font-semibold"> Book Chapter : An Intensified and Integrated Biorefinery Approach for Biofuel production.</span> in *In Book :Biochemical and environemtal processing*, ISBN : 13: 978-0-367-18739-2. <a href="https://doi.org/10.1201/9780429198045"_blank" class="text-blue-300 hover:text-blue-100">[Book chapter]</a></li>
+<h2 class="text-3xl font-bold mb-6">
+  Book & Book Chapters Published
+</h2>
+
+<ol class="list-decimal ml-10 space-y-4 text-white text-lg">
+
+  <li>
+    <span class="font-semibold">
+      Book: Bio-Inspired Self healing organic coatings for corrosion protection of marine mild steel.
+    </span>
+    in <i>Crdeep Publisher</i> ISBN:978-81-687441-0-3.
+    <a href="#" class="text-blue-300 hover:text-blue-100">
+      [FULL book]
+    </a>
+  </li>
+
+  <li>
+    <span class="font-semibold">
+      Book Chapter: An Intensified and Integrated Biorefinery Approach for Biofuel production.
+    </span>
+    in <i>Biochemical and environmental processing</i>
+    ISBN: 13: 978-0-367-18739-2.
+    
+    <a href="https://doi.org/10.1201/9780429198045"
+       target="_blank"
+       class="text-blue-300 hover:text-blue-100">
+       [Book chapter]
+    </a>
+  </li>
+
+</ol>                   
                         
                     <h3>Journal Publications (6 Papers)</h3>
                     <ol class="list-decimal list-inside text-sm ml-4 mt-3 pub-list">
