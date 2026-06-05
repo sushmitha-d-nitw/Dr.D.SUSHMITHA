@@ -211,7 +211,7 @@
 
   <header class="shadow-md py-0.5 sticky top-0 z-50 bg-blue-700">
   <div class="W-full px-2 flex flex-col md:flex-row justify-center items-center">
-    <nav class="flex justify-center flex-wrap gap-2 mt-0 text-sm sm:text-base  md:text-lg lg:text-xl text-white">
+    <nav class="flex justify-center gap-1 mt-0 text-sm md:text-base text-white">
       <a href="#about" class="nav-link active" data-target="about"><b>Home</b></a>
       <a href="#education" class="nav-link" data-target="education"><b>Education</b></a>
       <a href="#experience" class="nav-link" data-target="experience"><b>Experience</b></a>
