@@ -598,7 +598,7 @@
             <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
 
                 <span class="sub-sub-heading">
-                    PPTs
+                    PPTs/Notes 
                 </span>
 
                 <!-- ADD PPT LINKS -->
@@ -617,18 +617,7 @@
 
                        📘 CRE UNIT 1 PPT 1
                     </a>
-
-                </div>
-            </div>
-
-            <!-- NOTES -->
-            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
-
-                <span class="sub-sub-heading">
-                    Notes
-                </span>
-
-                <!-- ADD NOTES LINKS -->
+                   <!-- ADD NOTES LINKS -->
                 <div class="mt-3 space-y-2">
 
                     <a href="https://drive.google.com/file/d/1ED03MauPEm1iNohbzsI-MDGQET3S21aR/view?usp=sharing"
