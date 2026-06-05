@@ -550,132 +550,113 @@
             Chemical Reaction Engineering
         </h3>
 
-        <!-- Sub Sections -->
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
+       <!-- Sub Sections -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
 
-            <!-- YOUTUBE -->
-            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
+    <!-- COLUMN 1 : VIDEO LECTURES -->
+    <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
 
-                <span class="sub-sub-heading">
-                    Video Lectures
-                </span>
+        <span class="sub-sub-heading">
+            Video Lectures
+        </span>
 
-                <!-- ADD YOUTUBE LINKS -->
-                <div class="mt-3 space-y-2">
+        <div class="mt-3 space-y-2">
 
-                    <a href="https://www.youtube.com/watch?v=3chP9b0T9ds&t=188s"
-                       target="_blank"
-                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+            <a href="https://www.youtube.com/watch?v=3chP9b0T9ds&t=188s"
+               target="_blank"
+               class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               ▶ UNIT 4: Design of Single and multiple reactors for Multiple reactions (Part-1)
+            </a>
 
-                       ▶ UNIT 4: Design of Signle and multiple reactors for Multiple reactions (Part-1)
-                    </a>
+            <a href="https://www.youtube.com/watch?v=ITS7pu19sXQ&t=86s"
+               target="_blank"
+               class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               ▶ UNIT 4: Design of Single and multiple reactors for Multiple reactions (Part-2)
+            </a>
 
- <a href="https://www.youtube.com/watch?v=ITS7pu19sXQ&t=86s"
-                       target="_blank"
-                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+            <a href="https://www.youtube.com/watch?v=ibqqgTQNmSU&t=31s"
+               target="_blank"
+               class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               ▶ UNIT 4: Design of Single and multiple reactors for Multiple reactions (Part-3)
+            </a>
 
-                       ▶ UNIT 4: Design of Signle and multiple reactors for Multiple reactions (Part-2)
-                    </a>
-
- <a href="https://www.youtube.com/watch?v=ibqqgTQNmSU&t=31s"
-                       target="_blank"
-                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
-
-                       ▶ UNIT 4: Design of Signle and multiple reactors for Multiple reactions (Part-3)
-                    </a>
-                   
-                    <a href="YOUR_YOUTUBE_LINK"
-                       target="_blank"
-                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
-
-                       ▶ UNIT 1
-                    </a>
-
-                </div>
-            </div>
-
-            <!-- PPTS -->
-            <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
-
-                <span class="sub-sub-heading">
-                    PPTs/Notes 
-                </span>
-
-                <!-- ADD PPT LINKS -->
-                <div class="mt-3 space-y-2">
-
-                    <a href="ppt/cre1.pptx"
-                       target="_blank"
-                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
-
-                       📘 CRE UNIT 4 PPT 1
-                    </a>
-
-                    <a href="ppt/cre2.pptx"
-                       target="_blank"
-                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
-
-                       📘 CRE UNIT 1 PPT 1
-                    </a>
-                   <!-- ADD NOTES LINKS -->
-                <div class="mt-3 space-y-2">
-
-                    <a href="https://drive.google.com/file/d/1ED03MauPEm1iNohbzsI-MDGQET3S21aR/view?usp=sharing"
-                       target="_blank"
-                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
-
-                       📄 UNIT 4 Notes 
-                    </a>
-
-                    <a href="notes/cre_notes2.pdf"
-                       target="_blank"
-                       class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
-
-                       📄 UNIT 1 Notes 
-                    </a>
-
-                </div>
-            </div>
-   </div>
-            </div>
-<!-- ADD Quize LINKS -->
-<div class="bg-gray-800 p-4 rounded-lg">
-    <h3 class="text-xl font-bold mb-3 text-yellow-400">
-        📝 Online Quizzes
-    </h3>
-
-    <div class="space-y-2">
-
-        <a href="https://extendedforms.io/form/a1e6b416-2b77-4cf9-9d13-132a98fa021f/login"
-           target="_blank"
-           class="block bg-green-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
-           📝 Unit 1 Quiz
-        </a>
+            <a href="YOUR_YOUTUBE_LINK"
+               target="_blank"
+               class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               ▶ UNIT 1
+            </a>
 
         </div>
     </div>
 
-<!-- ADD Disscusion form LINKS -->
-<div class="bg-gray-800 p-4 rounded-lg">
-    <h3 class="text-xl font-bold mb-3 text-yellow-400">
-        📝 Disscusion form
-    </h3>
+    <!-- COLUMN 2 : PPTS & NOTES -->
+    <div class="bg-blue-900 rounded-lg p-4 hover:scale-105 transition duration-300">
 
-    <div class="space-y-2">
+        <span class="sub-sub-heading">
+            PPTs / Notes
+        </span>
 
-        <a href="https://extendedforms.io/form/a1e6b416-2b77-4cf9-9d13-132a98fa021f/login"
-           target="_blank"
-           class="block bg-green-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
-           📝 Disscusion form
-        </a>
+        <div class="mt-3 space-y-2">
+
+            <a href="ppt/cre1.pptx"
+               target="_blank"
+               class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               📘 CRE UNIT 4 PPT 1
+            </a>
+
+            <a href="ppt/cre2.pptx"
+               target="_blank"
+               class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               📘 CRE UNIT 1 PPT 1
+            </a>
+
+            <a href="https://drive.google.com/file/d/1ED03MauPEm1iNohbzsI-MDGQET3S21aR/view?usp=sharing"
+               target="_blank"
+               class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               📄 UNIT 4 Notes
+            </a>
+
+            <a href="notes/cre_notes2.pdf"
+               target="_blank"
+               class="block bg-blue-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               📄 UNIT 1 Notes
+            </a>
 
         </div>
     </div>
 
+    <!-- COLUMN 3 : QUIZ + DISCUSSION -->
+    <div class="space-y-4">
 
-    
- </div>
+        <!-- QUIZ -->
+        <div class="bg-gray-800 p-4 rounded-lg">
+            <h3 class="text-xl font-bold mb-3 text-yellow-400">
+                📝 Online Quizzes
+            </h3>
+
+            <a href="https://extendedforms.io/form/a1e6b416-2b77-4cf9-9d13-132a98fa021f/login"
+               target="_blank"
+               class="block bg-green-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               📝 Unit 1 Quiz
+            </a>
+        </div>
+
+        <!-- DISCUSSION -->
+        <div class="bg-gray-800 p-4 rounded-lg">
+            <h3 class="text-xl font-bold mb-3 text-yellow-400">
+                💬 Discussion Form
+            </h3>
+
+            <a href="https://extendedforms.io/form/a1e6b416-2b77-4cf9-9d13-132a98fa021f/login"
+               target="_blank"
+               class="block bg-green-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+               💬 Discussion Form
+            </a>
+        </div>
+
     </div>
+
+</div>
 
     <!-- SUBJECT 2 -->
     <div class="card mt-6">
