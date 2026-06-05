@@ -379,7 +379,6 @@
             </section>
 
             <section id="research" class="content-section">
-                <h2 class="text-3xl font-boldmb-3 mt-0 section-heading">Core Research & Metrics</h2>
                 <div class="card card-content">
                     <ul class="list-disc list-inside text-sm ml-4 space-y-3 mt-3">
                         
@@ -418,7 +417,6 @@
             </section>
 
             <section id="publications-detail" class="content-section">
-                <h2 class="section-heading">Publications: Journals & Conferences</h2>
                 <div class="card card-content">
                     
                     <h3>Journal Publications (6 Papers)</h3>
@@ -511,8 +509,7 @@
                 </div>
             </section>
 
-            <section id="extra-curricular" class="content-section">
-                <h2 class="section-heading">Awards & Recognition</h2>
+            <section id="Awards & Recognition" class="content-section">
                 <div class="card card-content">
                     <ul class="list-disc list-inside text-sm ml-4 space-y-3 mt-3">
                         <li class="flex justify-between items-start pr-4">
@@ -526,7 +523,7 @@
                         <li class="flex justify-between items-start pr-4">
                             <div class="flex-grow">
                                 <span class="font-semibold text-accent block">Best Paper Awards</span>
-                                <span class="block">Awarded for "Lignin Encapsulation..." at the **International Conference (EETSD-2020)**.</span>
+                                <span class="block">Awarded for " Optimization through Responsce susrface Methodology..." at the **International Conference (Reserch Conclave-2017)**.</span>
                                 <span class="block italic text-xs">Recognized for significant scientific merit and presentation quality.</span>
                             </div>
                             <a href="files/best_paper_award.png" target="_blank" class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">View Proof</a>
@@ -535,7 +532,7 @@
                             <div class="flex-grow">
                                 <span class="font-semibold text-accent block">GATE & Fellowship Awards</span>
                                 <span class="block">Qualified GATE three times, securing MHRD Ph.D. Scholarship and AICTE M.Tech Fellowship.</span>
-                                <span class="block italic text-xs">These national-level qualifications confirm high academic standards and technical aptitude.</span>
+                                <span class="block italic text-xs">These national-level qualifications confirm high academic standards.</span>
                             </div>
                         </li>
                     </ul>
@@ -545,12 +542,7 @@
 <!-- SUBJECT CONTENT SECTION -->
 <section id="subjects" class="content-section py-1 px-4">
 
-    <!-- Main Heading -->
-    <h2 class="section-heading text-center text-3xl mb-6">
-        Subject Content
-    </h2>
-
-    <!-- SUBJECT 1 -->
+       <!-- SUBJECT 1 -->
     <div class="card">
 
         <!-- Subject Heading -->
@@ -847,8 +839,7 @@
 </section>
 
             <section id="gallery" class="content-section">
-                <h2 class="section-heading">Research & Professional Gallery</h2>
-                <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
                     <div class="relative group rounded-lg overflow-hidden">
                         <img src="https://raw.githubusercontent.com/sushmitha-d-nitw/Dr.D.SUSHMITHA/refs/heads/main/website%20phototes/Image%201.jpg" alt="Conference talk" class="gallery-image">
                         <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
