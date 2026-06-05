@@ -653,6 +653,26 @@
 
         </div>
     </div>
+
+<!-- ADD Disscusion form LINKS -->
+<div class="bg-gray-800 p-4 rounded-lg">
+    <h3 class="text-xl font-bold mb-3 text-yellow-400">
+        📝 Disscusion form
+    </h3>
+
+    <div class="space-y-2">
+
+        <a href="https://extendedforms.io/form/a1e6b416-2b77-4cf9-9d13-132a98fa021f/login"
+           target="_blank"
+           class="block bg-green-700 px-3 py-2 rounded hover:bg-yellow-400 hover:text-black transition">
+           📝 Disscusion form
+        </a>
+
+        </div>
+    </div>
+
+
+    
  </div>
     </div>
 
