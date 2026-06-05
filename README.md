@@ -211,7 +211,7 @@
 
   <header class="shadow-md py-0.5 sticky top-0 z-50 bg-blue-700">
   <div class="w-full px-2 flex flex-col md:flex-row justify-center items-center">
-    <nav class="flex justify-center flex-wrap gap-1 mt-0 text-sm md:text-base text-white">
+    <nav class="flex justify-center gap-1 mt-0 text-sm md:text-base text-white">
       <a href="#about" class="nav-link active" data-target="about"><b>Home</b></a>
       <a href="#education" class="nav-link" data-target="education"><b>Education</b></a>
       <a href="#experience" class="nav-link" data-target="experience"><b>Experience</b></a>
@@ -983,7 +983,6 @@
  <!-- Visitor Counter -->
    
 <div class="text-center mt-4">
-  <h3 class="text-white text-xl mb-2">Visitor Site</h3>
 
   <img 
     src="https://visitor-badge.laobi.icu/badge?page_id=sushmitha-d-nitw.Dr.D.SUSHMITHA"
