@@ -636,7 +636,8 @@
 
                 </div>
             </div>
-
+   </div>
+            </div>
 <!-- ADD Quize LINKS -->
 <div class="bg-gray-800 p-4 rounded-lg">
     <h3 class="text-xl font-bold mb-3 text-yellow-400">
