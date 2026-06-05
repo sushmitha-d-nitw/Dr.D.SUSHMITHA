@@ -418,7 +418,12 @@
 
             <section id="publications-detail" class="content-section">
                 <div class="card card-content">
-                    
+
+                    <h3> Book & Book Chapters Published </h3>
+                    <ol class="list-decimal list-inside text-sm ml-4 mt-3 pub-list">
+                        <li><span class="font-semibold" Book : Bio-Inspired Self healing organic coatings for corrosion protection of marine mild steel .</span> in *Crdeep Publisher* ISBN:978-81-687441-0-3. <a href="https://doi.org/10.5281/zenodo.20534474" target="_blank" class="text-blue-300 hover:text-blue-100">[fULL book]</a></li>
+                        <li><span class="font-semibold"> Book Chapter : An Intensified and Integrated Biorefinery Approach for Biofuel production.</span> in *In Book :Biochemical and environemtal processing*, ISBN : 13: 978-0-367-18739-2. <a href="https://doi.org/10.1201/9780429198045"_blank" class="text-blue-300 hover:text-blue-100">[Book chapter]</a></li>
+                        
                     <h3>Journal Publications (6 Papers)</h3>
                     <ol class="list-decimal list-inside text-sm ml-4 mt-3 pub-list">
                         <li><span class="font-semibold">Intensification of delignification of Tectona grandis saw dust as sustainable biomass using acoustic cavitational devices.</span> in *Ultrasonication and Sonochemistry* (IF: 9.336, Indexed: SCI, Scopus). <a href="https://doi.org/10.1016/j.ultsonch.2019.104914" target="_blank" class="text-blue-300 hover:text-blue-100">[Original Paper]</a></li>
