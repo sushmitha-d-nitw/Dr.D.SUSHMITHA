@@ -210,7 +210,7 @@
 <body class="flex flex-col min-h-screen">
 
   <header class="shadow-md py-0.5 sticky top-0 z-50 bg-blue-700">
-  <div class="W-full px-2 flex flex-col md:flex-row justify-center items-center">
+  <div class="w-full px-2 flex flex-col md:flex-row justify-center items-center">
     <nav class="flex justify-center gap-1 mt-0 text-sm md:text-base text-white">
       <a href="#about" class="nav-link active" data-target="about"><b>Home</b></a>
       <a href="#education" class="nav-link" data-target="education"><b>Education</b></a>
@@ -655,7 +655,7 @@
         </div>
 
     </div>
-
+</div>
 </div>
 
     <!-- SUBJECT 2 -->
@@ -986,7 +986,7 @@
         <p class="text-white mb-2">Website Visitors</p>
 
         <img 
-            src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_REPOSITORY_NAME" 
+            https://visitor-badge.laobi.icu/badge?page_id=sushmitha-d-nitw.Dr.D.SUSHMITHA
             alt="Visitor Counter"
             class="mx-auto"
         >
