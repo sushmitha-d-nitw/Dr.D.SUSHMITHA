@@ -210,8 +210,8 @@
 <body class="flex flex-col min-h-screen">
 
   <header class="shadow-md py-0.5 sticky top-0 z-50 bg-blue-700">
-  <div class="mx-auto max-w-5xl px-2 flex flex-col md:flex-row justify-center items-center">
-    <nav class="flex justify-center md:space-x-1 space-x-2 mt-0 text-sm sm:text-base md:text-lg lg:text-xl text-white overflow-x-auto">
+  <div class="mx-auto max-w-7xl px-2 flex flex-col md:flex-row justify-center items-center">
+    <nav class="flex justify-center flex-wrap gap-2 mt-0 text-sm sm:text-base  md:text-lg lg:text-xl text-white">
       <a href="#about" class="nav-link active" data-target="about"><b>Home</b></a>
       <a href="#education" class="nav-link" data-target="education"><b>Education</b></a>
       <a href="#experience" class="nav-link" data-target="experience"><b>Experience</b></a>
