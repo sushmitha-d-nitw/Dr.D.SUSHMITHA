@@ -547,9 +547,9 @@
                         <li class="flex justify-between items-start pr-4">
                             <div class="flex-grow">
                                 <span class="font-semibold text-accent block">Reviewer Recognition (Elsevier)</span>
-                                <span class="block">Recognized as an official reviewer for **3 Elsevier journals**: * “Renewable Energy” Impact Factor: 8.01, Indexed in SCIE, Scopus, 
-                         Materials Today Proceedings Impact Factor 1.46 Scopus indexed.
-                       Journal of King Saud University – Engineering Science, Impact Factor 4.55 SCIE Indexed.  </span>
+                                <span class="block">Recognized as an official reviewer for **3 Elsevier journals**: * “Renewable Energy” Impact Factor: 8.01, Indexed in SCIE, Scopus. </span> 
+                       <span class="block">  Materials Today Proceedings Impact Factor 1.46 Scopus indexed.  </span>
+                      <span class="block"> Journal of King Saud University – Engineering Science, Impact Factor 4.55 SCIE Indexed.  </span>
                                 <span class="block italic text-xs">A testament to expertise and contribution to peer-reviewed scientific literature.</span>
                             </div>
                             <a href="files/reviewer_certificate.png" target="_blank" class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">View Proof</a>
@@ -565,8 +565,22 @@
                         <li class="flex justify-between items-start pr-4">
                             <div class="flex-grow">
                                 <span class="font-semibold text-accent block">GATE & Fellowship Awards</span>
-                                <span class="block">Qualified GATE three times, securing MHRD Ph.D. Scholarship and AICTE M.Tech Fellowship.</span>
+                                <span class="block">Qualified GATE three times (  2009, 2010, 2012 ) </span>
+                                <span class="block">Received Scholarship from the Ministry of Human Resources Development (MHRD), Govt., of India during Ph.D.in Dept., of Chemical. </span>
+                                <span class="block">Received All India Council for Technical Education (AICTE) fellowship during M. Tech in Dept., of Chemical Engineering NIT-W. </span>
                                 <span class="block italic text-xs">These national-level qualifications confirm high academic standards.</span>
+
+                                 <a href="files/best_paper_award.png" target="_blank" class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">View Proof</a>
+                        </li>
+                        <li class="flex justify-between items-start pr-4">
+                            <div class="flex-grow">
+                                <span class="font-semibold text-accent block">Profesional Membership </span>
+                                <span class="block"> IICHE Associate membership since December 2017 “LAM 61813”.  </span>
+                                <span class="block">IEI Institute of Engineers India Associate membership since April 2023 “AM3074954”. . </span>
+                              
+                                <span class="block italic text-xs">These national-level Membership confirm high academic standards.</span>
+                                
+                            </div>
                             </div>
                         </li>
                     </ul>
