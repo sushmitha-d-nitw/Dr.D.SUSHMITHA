@@ -541,51 +541,100 @@
                 </div>
             </section>
 
-            <section id="Awards & Recognition" class="content-section">
-                <div class="card card-content">
-                    <ul class="list-disc list-inside text-sm ml-4 space-y-3 mt-3">
-                        <li class="flex justify-between items-start pr-4">
-                            <div class="flex-grow">
-                                <span class="font-semibold text-accent block">Reviewer Recognition (Elsevier)</span>
-                                <span class="block">Recognized as an official reviewer for **3 Elsevier journals**: * “Renewable Energy” Impact Factor: 8.01, Indexed in SCIE, Scopus. </span> 
-                       <span class="block">  Materials Today Proceedings Impact Factor 1.46 Scopus indexed.  </span>
-                      <span class="block"> Journal of King Saud University – Engineering Science, Impact Factor 4.55 SCIE Indexed.  </span>
-                                <span class="block italic text-xs">A testament to expertise and contribution to peer-reviewed scientific literature.</span>
-                            </div>
-                            <a href="files/reviewer_certificate.png" target="_blank" class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">View Proof</a>
-                        </li>
-                        <li class="flex justify-between items-start pr-4">
-                            <div class="flex-grow">
-                                <span class="font-semibold text-accent block">Best Paper Awards</span>
-                                <span class="block">Awarded for " Optimization through Responsce susrface Methodology..." at the **International Conference (Reserch Conclave-2017)**.</span>
-                                <span class="block italic text-xs">Recognized for significant scientific merit and presentation quality.</span>
-                            </div>
-                            <a href="files/best_paper_award.png" target="_blank" class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">View Proof</a>
-                        </li>
-                        <li class="flex justify-between items-start pr-4">
-                            <div class="flex-grow">
-                                <span class="font-semibold text-accent block">GATE & Fellowship Awards</span>
-                                <span class="block">Qualified GATE three times (  2009, 2010, 2012 ) </span>
-                                <span class="block">Received Scholarship from the Ministry of Human Resources Development (MHRD), Govt., of India during Ph.D.in Dept., of Chemical. </span>
-                                <span class="block">Received All India Council for Technical Education (AICTE) fellowship during M. Tech in Dept., of Chemical Engineering NIT-W. </span>
-                                <span class="block italic text-xs">These national-level qualifications confirm high academic standards.</span>
+     <section id="Awards & Recognition" class="content-section">
+    <div class="card card-content">
 
-                                 <a href="files/best_paper_award.png" target="_blank" class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">View Proof</a>
-                        </li>
-                        <li class="flex justify-between items-start pr-4">
-                            <div class="flex-grow">
-                                <span class="font-semibold text-accent block">Profesional Membership </span>
-                                <span class="block"> IICHE Associate membership since December 2017 “LAM 61813”.  </span>
-                                <span class="block">IEI Institute of Engineers India Associate membership since April 2023 “AM3074954”. . </span>
-                              
-                                <span class="block italic text-xs">These national-level Membership confirm high academic standards.</span>
-                                
-                            </div>
-                            </div>
-                        </li>
-                    </ul>
+        <ul class="list-disc list-inside text-sm ml-4 space-y-3 mt-3">
+
+            <li class="flex justify-between items-start pr-4">
+                <div class="flex-grow">
+                    <span class="font-semibold text-accent block">Reviewer Recognition (Elsevier)</span>
+
+                    <span class="block">Recognized as an official reviewer for 3 Elsevier journals.</span>
+                    <span class="block">Renewable Energy (Impact Factor 8.01, SCIE & Scopus).</span>
+                    <span class="block">Materials Today Proceedings (Scopus Indexed).</span>
+                    <span class="block">Journal of King Saud University – Engineering Sciences (Impact Factor 4.55, SCIE).</span>
+
+                    <span class="block italic text-xs">
+                        A testament to expertise and contribution to peer-reviewed scientific literature.
+                    </span>
                 </div>
-            </section>
+
+                <a href="files/reviewer_certificate.png"
+                   target="_blank"
+                   class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">
+                    View Proof
+                </a>
+            </li>
+
+            <li class="flex justify-between items-start pr-4">
+                <div class="flex-grow">
+                    <span class="font-semibold text-accent block">Best Paper Award</span>
+
+                    <span class="block">
+                        Awarded for "Optimization through Response Surface Methodology..." at Research Conclave 2017.
+                    </span>
+
+                    <span class="block italic text-xs">
+                        Recognized for significant scientific merit and presentation quality.
+                    </span>
+                </div>
+
+                <a href="files/best_paper_award.png"
+                   target="_blank"
+                   class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">
+                    View Proof
+                </a>
+            </li>
+
+            <li class="flex justify-between items-start pr-4">
+                <div class="flex-grow">
+                    <span class="font-semibold text-accent block">GATE & Fellowship Awards</span>
+
+                    <span class="block">Qualified GATE three times (2009, 2010, 2012).</span>
+
+                    <span class="block">
+                        Received MHRD Scholarship during Ph.D.
+                    </span>
+
+                    <span class="block">
+                        Received AICTE Fellowship during M.Tech at NIT Warangal.
+                    </span>
+
+                    <span class="block italic text-xs">
+                        These national-level qualifications confirm high academic standards.
+                    </span>
+                </div>
+
+                <a href="files/gate_award.png"
+                   target="_blank"
+                   class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">
+                    View Proof
+                </a>
+            </li>
+
+            <li class="flex justify-between items-start pr-4">
+                <div class="flex-grow">
+                    <span class="font-semibold text-accent block">Professional Membership</span>
+
+                    <span class="block">
+                        IICHE Associate Membership since December 2017 (LAM 61813).
+                    </span>
+
+                    <span class="block">
+                        IEI Associate Membership since April 2023 (AM3074954).
+                    </span>
+
+                    <span class="block italic text-xs">
+                        These memberships reflect continued professional engagement.
+                    </span>
+                </div>
+            </li>
+
+        </ul>
+
+    </div>
+</section>       
 
 <!-- SUBJECT CONTENT SECTION -->
 <section id="subjects" class="content-section py-1 px-4">
