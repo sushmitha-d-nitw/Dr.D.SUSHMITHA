@@ -547,7 +547,9 @@
                         <li class="flex justify-between items-start pr-4">
                             <div class="flex-grow">
                                 <span class="font-semibold text-accent block">Reviewer Recognition (Elsevier)</span>
-                                <span class="block">Recognized as an official reviewer for **3 Elsevier journals**: *Journal of Cleaner Production, Cellulose, Ultrasonics Sonochemistry*.</span>
+                                <span class="block">Recognized as an official reviewer for **3 Elsevier journals**: * “Renewable Energy” Impact Factor: 8.01, Indexed in SCIE, Scopus, 
+                         Materials Today Proceedings Impact Factor 1.46 Scopus indexed.
+                       Journal of King Saud University – Engineering Science, Impact Factor 4.55 SCIE Indexed.  </span>
                                 <span class="block italic text-xs">A testament to expertise and contribution to peer-reviewed scientific literature.</span>
                             </div>
                             <a href="files/reviewer_certificate.png" target="_blank" class="text-xs bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-1 px-2 rounded transition ml-4 flex-shrink-0 mt-1">View Proof</a>
