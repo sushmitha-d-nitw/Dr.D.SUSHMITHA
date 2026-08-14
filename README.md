@@ -430,7 +430,8 @@
       Book: Bio-Inspired Self healing organic coatings for corrosion protection of marine mild steel.
     </span>
     in <i>Crdeep Publisher</i> ISBN:978-81-687441-0-3.
-    <a href="https://drive.google.com/file/d/1BFBULe9RUplApI7Ps1EgrsM_FBJLtxMb/view?usp=sharing="_blank" 
+    <a href="https://drive.google.com/file/d/1BFBULe9RUplApI7Ps1EgrsM_FBJLtxMb/view?usp=sharing"
+        target="_blank" 
         class="text-blue-300 hover:text-blue-100">
       [FULL book]
     </a>
